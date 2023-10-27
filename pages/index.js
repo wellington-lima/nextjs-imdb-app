@@ -1,7 +1,7 @@
 import Head from "next/head"
-import Header from "../compnents/Header"
-import Navbar from "../compnents/Navbar"
-import Results from "../compnents/Results"
+import Header from "../components/Header"
+import Navbar from "../components/Navbar"
+import Results from "../components/Results"
 
 export default function Home() {
   return (
