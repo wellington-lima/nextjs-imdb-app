@@ -5,7 +5,8 @@ const nextConfig = {
 
   images: {
     domains: [
-      "upload.wikimedia.org"
+      "upload.wikimedia.org",
+      "image.tmdb.org"
     ]
   }
 }
